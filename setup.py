@@ -21,11 +21,11 @@ setup(
     author='ryufmr', # パッケージ作者の名前
     author_email='wisteria2gpssftu@gmail.com', # パッケージ作者の連絡先メールアドレス
 
-    url='https://github.com/shonansurvivors/yourpackage', # パッケージに関連するサイトのURL(GitHubなど)
+    url='https://github.com/wisteria2gp/treeClass', # パッケージに関連するサイトのURL(GitHubなど)
 
     description='Tree Data class for my use', # パッケージの簡単な説明
     long_description=long_description, # PyPIに'Project description'として表示されるパッケージの説明文
-    long_description_content_type='text/markdown' # long_descriptionの形式を'text/plain', 'text/x-rst', 'text/markdown'のいずれかから指定
+    long_description_content_type='text/markdown' ,# long_descriptionの形式を'text/plain', 'text/x-rst', 'text/markdown'のいずれかから指定
     keywords='treeClass', # PyPIでの検索用キーワードをスペース区切りで指定
 
     classifiers=[
